@@ -1,4 +1,4 @@
-# FastAPI Expense Tracker API Documentation
+# Daily Expense Tracker API Documentation
 
 ## Overview
 
